@@ -28,7 +28,6 @@ PRODUCT_PACKAGES += \
     DeskClock \
     Eleven \
     Email \
-    Gallery2 \
     LatinIME \
     Launcher3QuickStep \
     OneTimeInitializer \
