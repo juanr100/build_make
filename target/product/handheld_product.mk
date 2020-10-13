@@ -27,7 +27,6 @@ PRODUCT_PACKAGES += \
     Contacts \
     DeskClock \
     Eleven \
-    Gallery2 \
     LatinIME \
     OneTimeInitializer \
     preinstalled-packages-platform-handheld-product.xml \
